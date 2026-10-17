@@ -1,4 +1,0 @@
-streamlit>=1.38
-plotly>=5.22
-numpy>=1.26
-pandas>=2.1
